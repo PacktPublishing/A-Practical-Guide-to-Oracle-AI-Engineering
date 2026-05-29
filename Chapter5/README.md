@@ -15,7 +15,7 @@ Setup guide: https://www.oracle.com/database/free/get-started/
 - Copy the model file into `/tmp` inside the Docker container:
 
 ```bash
-docker cp all_MiniLM_L12_v2.onnx oracle23ai:/tmp/
+docker cp all_MiniLM_L12_v2.onnx oracle-26ai-free:/tmp/
 ```
 
 ## Scripts
